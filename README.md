@@ -1,5 +1,4 @@
-# ⛧
-## :microscope: 7byte
+## ⛧ 7byte
 **I am...**
 ```
 IT
