@@ -1,6 +1,6 @@
 ### @me
 
-Here are some ideas to get you started:
+7byte
 
 - Hello bitchez, I'm a fuckin' scientist.
 -->
