@@ -1,5 +1,5 @@
 ## :microscope: 7byte
-**Skills**
+**I am...**
 ```
 IT
 Developer
