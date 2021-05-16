@@ -4,7 +4,8 @@
 IT
 Developer
 Maker
-System Engineer
+System Architect
+Network Engineer
 ```
 **Languages**
 ```
