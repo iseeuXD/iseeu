@@ -9,5 +9,5 @@ Network Engineer
 ```
 **Languages**
 ```
-Bash, Ruby, Python, Perl, Html, CSS, JavaScript
+Bash, Ruby, Python, Perl, Html, CSS, JavaScript, PHP
 ```
