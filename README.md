@@ -1,14 +1,9 @@
-## ⛧ 7byte
-**I am...**
+## ⛧ se7enbyte
+**Я...**
 ```
-IT
-Developer
-Maker
-System Architect
-Network Engineer
+Разработчик и системный архитектор
 ```
-**Languages**
+**Языки...**
 ```
 Bash, Ruby, Perl, JavaScript, Python, PHP, HTML/CSS
 ```
-
